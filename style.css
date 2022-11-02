@@ -1,0 +1,1009 @@
+html {
+    font-size: 0%;
+    -webkit-box-sizing: border-boz;
+    box-sizing: bider-box;
+    scroll-behavior: smooth;
+}
+
+#Home {
+    position: absolute;
+    width: 1920px;
+    height: 5001px;
+    overflow: hidden;
+}
+
+#Header {
+    position: absolute;
+    width: 1932px;
+    height: 154px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    /*position: fixed;*/
+    z-index: 2;
+}
+
+#Portada {
+    position: absolute;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.887)), url('image/Imagen_Fondo.png');
+    width: 1920px;
+    height: 1149px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Imagen_Fondo {
+    position: absolute;
+    width: 1916px;
+    height: 1149px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#UN_LUGAR_LLENO_DE__TENTACIONES {
+    left: 140px;
+    top: 357px;
+    position: absolute;
+    overflow: visible;
+    width: 755px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    color: rgba(255, 215, 171, 1);
+}
+
+#Recuadro {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Recuadro {
+    position: absolute;
+    overflow: visible;
+    width: 1932px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+}
+
+#INICIO {
+    left: 999px;
+    top: 57px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(54, 54, 54, 1);
+}
+
+#INICIO a:visited {
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+
+#INICIO a:link {
+    text-decoration: none;
+}
+
+#INICIO:hover {
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#NOSOTROS {
+    left: 1143px;
+    top: 57px;
+    position: absolute;
+    overflow: visible;
+    width: 177px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(54, 54, 54, 1);
+}
+
+#NOSOTROS a:visited {
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+
+#NOSOTROS a:link {
+    text-decoration: none;
+}
+
+#NOSOTROS:hover {
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#PRODUCTOS {
+    left: 1364px;
+    top: 57px;
+    position: absolute;
+    overflow: visible;
+    width: 200px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(54, 54, 54, 1);
+}
+
+#PRODUCTOS a:visited {
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+
+#PRODUCTOS a:link {
+    text-decoration: none;
+}
+
+#PRODUCTOS:hover {
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#CONTACTO {
+    left: 1608px;
+    top: 57px;
+    position: absolute;
+    overflow: visible;
+    width: 174px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(54, 54, 54, 1);
+}
+
+#CONTACTO a:visited {
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+
+#CONTACTO a:link {
+    text-decoration: none;
+}
+
+#CONTACTO:hover {
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#Logotipo {
+    position: absolute;
+    width: 347px;
+    height: 121px;
+    left: 139px;
+    top: 15px;
+    overflow: visible;
+}
+
+#choco {
+    filter: blur(4px);
+}
+
+#Boton {
+    position: absolute;
+    width: 260px;
+    height: 69px;
+    left: 140px;
+    top: 757px;
+    overflow: visible;
+    text-align: center;
+}
+
+.Boton_ver {
+    background-color: rgb(255, 215, 171, 1);
+    border-color: rgba(154, 88, 51, 1);
+    position: absolute;
+    overflow: visible;
+    border-radius: 60px;
+    width: 260px;
+    height: 69px;
+    left: 0px;
+    top: 0px;
+}
+
+.Boton_ver:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+#VER_MAS {
+    left: 52px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 158px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgb(31, 31, 31);
+}
+
+#Sobre_nosotros {
+    position: absolute;
+    width: 1779px;
+    height: 887.27px;
+    left: 141px;
+    top: 1270px;
+    overflow: visible;
+}
+
+#Hola__Somos_PEPITA_CHOCOLATERI {
+    left: 0px;
+    top: 247px;
+    position: absolute;
+    overflow: visible;
+    width: 1122px;
+    white-space: nowrap;
+    line-height: 70px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(205, 150, 108, 1);
+}
+
+.Barra_pared {
+    position: absolute;
+    width: 438px;
+    height: 731.27px;
+    left: 1341px;
+    top: 156px;
+    overflow: visible;
+}
+
+#Barra_pared:hover {
+    filter: grayscale(80%);
+}
+
+.Barra_pared figure {
+    position: relative;
+}
+
+.Barra_pared figure::before {
+    position: absolute;
+    top: 30;
+    left: 4%;
+    z-index: 2;
+    display: block;
+    content: '';
+    width: 30%;
+    height: 100%;
+    background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%);
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.361) 100%);
+    -webkit-transform: skewX(-25deg);
+    transform: skewX(30deg);
+}
+
+.Barra_pared figure:hover::before {
+    -webkit-animation: shine .75s;
+    animation: shine .75s;
+}
+
+@-webkit-keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+
+@keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+
+#SOBRE_NOSOTROS {
+    left: 423px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 793px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(205, 150, 108, 1);
+}
+
+#Producto {
+    position: absolute;
+    width: 1920px;
+    height: 1090px;
+    left: 0px;
+    top: 2274px;
+    overflow: visible;
+}
+
+#Fondo {
+    position: absolute;
+    width: 1920px;
+    height: 1090px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.887)), url('image/choco.png');
+    filter: blur(4px);
+}
+
+#Imagen_med {
+    position: absolute;
+    width: 398px;
+    height: 601px;
+    left: 761px;
+    top: 319px;
+    overflow: visible;
+}
+
+#Imagen_med:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#Imagen_med {
+    overflow: hidden;
+}
+
+#Pie_borde {
+    fill: rgba(154, 88, 51, 1);
+    stroke: rgba(224, 176, 133, 1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Pie_borde {
+    position: absolute;
+    overflow: visible;
+    width: 398px;
+    height: 330px;
+    left: 0px;
+    top: 271px;
+}
+
+#bombones {
+    left: 73px;
+    top: 475px;
+    position: absolute;
+    overflow: visible;
+    width: 253px;
+    white-space: nowrap;
+    line-height: 70px;
+    margin-top: -15px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+#Imagen_1 {
+    position: absolute;
+    width: 398px;
+    height: 398px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Imagen_izq {
+    position: absolute;
+    width: 398px;
+    height: 600px;
+    left: 140px;
+    top: 319px;
+    overflow: visible;
+}
+
+#Imagen_izq:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#Imagen_izq {
+    overflow: hidden;
+}
+
+#Pie_borde_bd {
+    fill: rgba(154, 88, 51, 1);
+    stroke: rgba(224, 176, 133, 1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Pie_borde_bd {
+    position: absolute;
+    overflow: visible;
+    width: 398px;
+    height: 330px;
+    left: 0px;
+    top: 270px;
+}
+
+#barras_de_cholates {
+    left: 50px;
+    top: 433px;
+    position: absolute;
+    overflow: visible;
+    width: 299px;
+    white-space: nowrap;
+    line-height: 70px;
+    margin-top: -15px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+#Imagen_2 {
+    position: absolute;
+    width: 398px;
+    height: 398px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Imagen_der {
+    position: absolute;
+    width: 398px;
+    height: 601px;
+    left: 1382px;
+    top: 319px;
+    overflow: visible;
+}
+
+#Imagen_der:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#Imagen_der {
+    overflow: hidden;
+}
+
+#Pie_borde_bh {
+    fill: rgba(154, 88, 51, 1);
+    stroke: rgba(224, 176, 133, 1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Pie_borde_bh {
+    position: absolute;
+    overflow: visible;
+    width: 398px;
+    height: 330px;
+    left: 0px;
+    top: 271px;
+}
+
+#paletas_de_chocolates {
+    left: 19px;
+    top: 433px;
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    white-space: nowrap;
+    line-height: 70px;
+    margin-top: -15px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+#Imagen_3 {
+    position: absolute;
+    width: 398px;
+    height: 398px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#PRODUCTOS_bk {
+    left: 691px;
+    top: 110px;
+    position: absolute;
+    overflow: visible;
+    width: 539px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(255, 215, 171, 1);
+}
+
+#Contacto {
+    position: absolute;
+    width: 1639px;
+    height: 1009px;
+    left: 141px;
+    top: 3484px;
+    overflow: visible;
+}
+
+#Contacto_by {
+    left: 596px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 471px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(205, 150, 108, 1);
+    text-transform: uppercase;
+}
+
+#LLena_las_casillas_y_envianos_ {
+    left: 0px;
+    top: 219px;
+    position: absolute;
+    overflow: visible;
+    width: 824px;
+    white-space: nowrap;
+    line-height: 70px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(205, 150, 108, 1);
+}
+
+#Correo {
+    position: absolute;
+    width: 674px;
+    height: 631px;
+    left: 965px;
+    top: 217px;
+    overflow: visible;
+}
+
+.contact_form {
+    width: 460px;
+    height: auto;
+    margin: 80px auto;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: #9A5833;
+    padding-left: 30px;
+}
+
+input {
+    background-color: #fbfbfb;
+    width: 408px;
+    height: 40px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+}
+
+textarea {
+    background-color: #fbfbfb;
+    width: 405px;
+    height: 150px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    font-family: Montserrat;
+    font-style: normal;
+}
+
+label {
+    display: block;
+    float: center;
+}
+
+button {
+    height: 45px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    background-color: #ffffff;
+    border-color: #CD966C;
+    border-style: solid;
+    border-radius: 10px;
+    width: 420px;
+    cursor: pointer;
+}
+
+button p {
+    color: #313131;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.formulario span {
+    color: #ffffff;
+}
+
+.aviso {
+    font-size: 13px;
+    color: #ffffff;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 39px;
+    text-align: letf;
+    padding-bottom: 20px;
+    color: #ab4493;
+}
+
+h3 {
+    font-size: 16px;
+    padding-bottom: 30px;
+    color: #313131;
+}
+
+::-webkit-input-placeholder {
+    color: #a8a8a8;
+}
+
+::-webkit-textarea-placeholder {
+    color: #a8a8a8;
+}
+
+#Bombones_pie {
+    position: absolute;
+    width: 628px;
+    height: 377px;
+    left: 320px;
+    top: 632px;
+    overflow: visible;
+}
+
+#Bombones_pie:hover {
+    filter: grayscale(80%);
+}
+
+#Pie_pagina {
+    position: absolute;
+    width: 1920px;
+    height: 549px;
+    left: 0px;
+    top: 4452px;
+    overflow: visible;
+}
+
+#Caja_pie {
+    fill: rgba(49, 49, 49, 1);
+}
+
+.Caja_pie {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 549px;
+    left: 0px;
+    top: 0px;
+}
+
+#Logopie {
+    position: absolute;
+    width: 398px;
+    height: 139px;
+    left: 48px;
+    top: 41px;
+    overflow: visible;
+}
+
+#Guia {
+    position: absolute;
+    width: 102px;
+    height: 171px;
+    left: 140px;
+    top: 241px;
+    overflow: visible;
+}
+
+#INICIO_b {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#INICIO_b a:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#INICIO_b a:link {
+    text-decoration: none;
+}
+
+#INICIO_b:hover {
+    /* background-color: rgba(239, 16, 16, 0.797);*/
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#NOSOTROS_b {
+    left: 0px;
+    top: 49px;
+    position: absolute;
+    overflow: visible;
+    width: 94px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#NOSOTROS_b a:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#NOSOTROS_b a:link {
+    text-decoration: none;
+}
+
+#NOSOTROS_b:hover {
+    /* background-color: rgba(239, 16, 16, 0.797);*/
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#PRODUCTOS_b {
+    left: 0px;
+    top: 98px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#PRODUCTOS_b a:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#PRODUCTOS_b a:link {
+    text-decoration: none;
+}
+
+#PRODUCTOS_b:hover {
+    /* background-color: rgba(239, 16, 16, 0.797);*/
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#Contacto_b {
+    position: absolute;
+    width: 191px;
+    height: 122px;
+    left: 826px;
+    top: 241px;
+    overflow: visible;
+}
+
+#CORREO_ELECTRONICO_b {
+    left: 4px;
+    top: 98px;
+    position: absolute;
+    overflow: visible;
+    width: 188px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#CORREO_ELECTRONICO_b a:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#CORREO_ELECTRONICO_b a:link {
+    text-decoration: none;
+}
+
+#CORREO_ELECTRONICO_b:hover {
+    /* background-color: rgba(239, 16, 16, 0.797);*/
+    width: 120px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#WHATSAPP {
+    left: 4px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#n_4_1168923186 {
+    left: 0px;
+    top: 49px;
+    position: absolute;
+    overflow: visible;
+    width: 135px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Descargar_catalogo {
+    position: absolute;
+    width: 205px;
+    height: 121px;
+    left: 1520px;
+    top: 240px;
+    overflow: visible;
+}
+
+#DESCARGA_EL_CATALOGO_PARA_VER_ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 206px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Boton_cat {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(205, 150, 108, 1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(49, 49, 49, 1);
+}
+
+.Boton_cat {
+    position: absolute;
+    overflow: visible;
+    width: 138px;
+    height: 43px;
+    left: 0px;
+    top: 78px;
+}
+
+
+/*
+#DESCARGAR {
+    left: 25px;
+    top: 90px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(49, 49, 49, 1);
+}
+
+*/
